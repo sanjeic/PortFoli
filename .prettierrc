@@ -2,5 +2,6 @@
   "endOfLine": "auto",
   "tabWidth": 2,
   "bracketSpacing": true,
-  "singleQuote": true
+  "singleQuote": true,
+  "semi": false
 }
